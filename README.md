@@ -18,7 +18,7 @@ Interactive marker map of global earthquake events using Google Colab. Marker si
 ### Exercise 4 – Zonal Statistics using MODIS Time Series & District Shapefiles of India
 **Branch:** `EX4-ZonalStatistics`
 
-District-wise zonal statistics computed from MODIS datasets (Tree Cover, LAI/FPAR, Land Surface Temperature) for two time periods — early 2000s and ~2025 — to analyze environmental changes across India.
+District-wise zonal statistics computed from MODIS datasets (Tree Cover, LAI/FPAR, Land Surface Temperature) for two time periods: early 2000s and ~2025, to analyze environmental changes across India.
 
 🔗 [Open in Google Colab](https://colab.research.google.com/drive/1qD43umqKrJjK8_MkIs3Ge_bJJbJMDlsV?usp=sharing)
 
